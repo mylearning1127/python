@@ -1,0 +1,54 @@
+This is not applicable: api_version
+This is not applicable: argv
+This is not applicable: builtin_module_names
+This is not applicable: byteorder
+This is not applicable: call_tracing
+callstats : None
+This is not applicable: copyright
+This is not applicable: displayhook
+This is not applicable: dont_write_bytecode
+exc_clear : None
+exc_info : (None, None, None)
+This is not applicable: exc_type
+This is not applicable: excepthook
+This is not applicable: exec_prefix
+This is not applicable: executable
+This is not applicable: exit
+This is not applicable: flags
+This is not applicable: float_info
+This is not applicable: float_repr_style
+getcheckinterval : 100
+getdefaultencoding : ascii
+getdlopenflags : 2
+getfilesystemencoding : UTF-8
+getprofile : None
+getrecursionlimit : 1000
+This is not applicable: getrefcount
+This is not applicable: getsizeof
+gettrace : None
+This is not applicable: hexversion
+This is not applicable: long_info
+This is not applicable: maxint
+This is not applicable: maxsize
+This is not applicable: maxunicode
+This is not applicable: meta_path
+This is not applicable: modules
+This is not applicable: path
+This is not applicable: path_hooks
+This is not applicable: path_importer_cache
+This is not applicable: platform
+This is not applicable: prefix
+This is not applicable: py3kwarning
+This is not applicable: pydebug
+This is not applicable: setcheckinterval
+This is not applicable: setdlopenflags
+This is not applicable: setprofile
+This is not applicable: setrecursionlimit
+This is not applicable: settrace
+This is not applicable: stderr
+This is not applicable: stdin
+This is not applicable: stdout
+This is not applicable: subversion
+This is not applicable: version
+This is not applicable: version_info
+This is not applicable: warnoptions

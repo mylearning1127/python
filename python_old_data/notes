@@ -1,0 +1,56 @@
+***************************************************************************************************************************
+                                  PYTHON NOTES
+***************************************************************************************************************************
+1. using previous command output ad input or whatever
+
+>>> var1 = 20
+>>> print (var1)
+20
+>>> 10 + _
+23
+>>> print (_)
+23
+>>>
+
+But variable should print or call somewhere otherwise it wont work
+
+>>> var4=40
+>>> print(_)
+23
+>>> var4
+40
+>>> print(_)
+40
+>>>
+
+Here i created var4 but still preios command output shows 23 so we can understand we should print var
+***************************************************************************************************************************
+
+2. calling special character/quota inside print
+
+>>> "it's working"
+"it's working"
+>>> 'it\'s working'
+"it's working"
+>>> '"yes", working'
+'"yes", working'
+>>> '"yes", working'
+
+***************************************************************************************************************************
+if condition:
+
+value = True
+
+if value:
+   print ("Yes, Value is true")
+else:
+   print("value is false")
+-------------------------------
+name = 'suthan'
+age = 24
+
+if name == "suthan":
+   print ("yes, suthan is available")
+
+if age <= 18:
+   print ("not allowed")
